@@ -1,0 +1,10 @@
+C:\Users\Omar Chirinos\Desktop\[csharp]WinDataGridViewPasajeInformacion\WinApp1\bin\Debug\WinApp1.exe
+C:\Users\Omar Chirinos\Desktop\[csharp]WinDataGridViewPasajeInformacion\WinApp1\bin\Debug\WinApp1.pdb
+C:\Users\Omar Chirinos\Desktop\[csharp]WinDataGridViewPasajeInformacion\WinApp1\obj\Debug\WinApp1.csprojResolveAssemblyReference.cache
+C:\Users\Omar Chirinos\Desktop\[csharp]WinDataGridViewPasajeInformacion\WinApp1\obj\Debug\WinApp1.Form1.resources
+C:\Users\Omar Chirinos\Desktop\[csharp]WinDataGridViewPasajeInformacion\WinApp1\obj\Debug\WinApp1.Form2.resources
+C:\Users\Omar Chirinos\Desktop\[csharp]WinDataGridViewPasajeInformacion\WinApp1\obj\Debug\WinApp1.Properties.Resources.resources
+C:\Users\Omar Chirinos\Desktop\[csharp]WinDataGridViewPasajeInformacion\WinApp1\obj\Debug\WinApp1.csproj.GenerateResource.Cache
+C:\Users\Omar Chirinos\Desktop\[csharp]WinDataGridViewPasajeInformacion\WinApp1\obj\Debug\WinApp1.exe
+C:\Users\Omar Chirinos\Desktop\[csharp]WinDataGridViewPasajeInformacion\WinApp1\obj\Debug\WinApp1.pdb
+C:\Users\Omar Chirinos\Desktop\[csharp]WinDataGridViewPasajeInformacion\WinApp1\obj\Debug\WinApp1.editar.resources
